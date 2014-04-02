@@ -37,14 +37,14 @@ links:
     url: /about/
   - title: Articles
     url: /articles/
-  - title: Theme Setup
-    url: /theme-setup/
-  - title: Made Mistakes
-    url: http://mademistakes.com
+  - title: Vegan #Theme Setup
+    url: /vegan/ #/theme-setup/
+  - title: Dog trainer #Made Mistakes
+    url: /dogtrainer/ #http://mademistakes.com
     external: true
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone:    America/New_York
+timezone:    Europe/Barcelona #America/New_York
 future:      true
 pygments:    true
 markdown:    kramdown
