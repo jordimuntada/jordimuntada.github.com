@@ -5,7 +5,7 @@ title: About me
 tags: [Jekyll, theme, simple, minimal, minimalism, responsive]
 modified: 2014-04-02
 image:
-  feature: so-simple-sample-image-4.jpg
+  feature: Myself_in_Marakele_National_Park.JPG
   credit: Jordi Muntada #Michael Rose
   creditlink: http://jordimuntada.github.io #http://mademistakes.com
 ---
