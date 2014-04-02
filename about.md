@@ -30,4 +30,3 @@ Looking for a simple, responsive, theme for your Jekyll powered blog? Well look 
 
 <a markdown="0" href="{{ site.url }}/theme-setup" class="btn">Install Minimal Mistakes Theme</a>
 
-#[^1]: Example: *domain.com/category-name/post-title*
