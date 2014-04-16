@@ -37,10 +37,10 @@ links:
     url: /about/
   - title: Articles
     url: /articles/
-  - title: Vegan #Theme Setup
-    url: /vegan/ #/theme-setup/
-  - title: Dog trainer #Made Mistakes
-    url: /dogtrainer/ #http://mademistakes.com
+  - title: My Business #Made Mistakes
+    url: /business/ #http://mademistakes.com
+  - title: Courses #Theme Setup
+    url: /courses/ #/theme-setup/
     external: true
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones

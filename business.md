@@ -1,8 +1,8 @@
 ---
 layout: page
-permalink: /about/
-title: About me
-tags: [Jekyll, theme, simple, minimal, minimalism, responsive]
+permalink: /business/
+title: My business
+tags: [business, mlm, network, marketing, binary, australian, wishclub, publicity, simple]
 modified: 2014-04-02
 image:
   feature: Myself_in_Marakele_National_Park.JPG
