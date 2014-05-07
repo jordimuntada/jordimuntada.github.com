@@ -1,5 +1,5 @@
 title:            Jordi Muntada
-description:      Discover through me
+description:      Descúbreme
 logo:             site-logo.png
 disqus_shortname: 
 search:           true
@@ -33,14 +33,14 @@ bing_verify:
 # Links to include in top navigation
 # For external links add external: true
 links:
-  - title: About
+  - title: Sobre mí
     url: /about/
-  - title: Articles
+  - title: Artículos
     url: /articles/
-  - title: My Business #Made Mistakes
+  - title: Mi negocio #Made Mistakes
     url: /business/ #http://mademistakes.com
-  - title: Courses #Theme Setup
-    url: /courses/ #/theme-setup/
+  - title: Conocimiento #Theme Setup
+    url: /knowledge/ #/theme-setup/
     external: true
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
