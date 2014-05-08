@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "Post with Large Feature Image and Text"
-description: "Custom written post descriptions are the way to go... if you're not lazy."
+title: "El fraude de la felicidad"
+description: "La felicidad ya no es filosofía sino negocio."
 category: articles
-tags: [sample post, readability]
-modified: 2013-06-30
+tags: [entrada, filosofía, felicidad, negocio, fraude, sociedad, dinero, materialismo, consumismo, estado, depresión]
+modified: 2014-05-07
 image:
   feature: happy-tortoise.jpg
   credit: -unknown-
@@ -12,6 +12,12 @@ image:
 comments: true
 share: true
 ---
+
+La felicidad empezó siendo un concepto filosófico vital hasta los instantes anteriors al inicio de la revolución industrial.
+
+
+
+
 
 This is a sample post with a large feature image[^1] up top and tons of text. Odio ad blue bottle vinyl, 90's narwhal commodo bitters pour-over nostrud. Ugh est hashtag in, fingerstache adipisicing laboris esse Pinterest shabby chic Portland. Shoreditch bicycle rights anim, flexitarian laboris put a bird on it vinyl cupidatat narwhal. Hashtag artisan skateboard, flannel Bushwick nesciunt salvia aute fixie do plaid post-ironic dolor McSweeney's. Cliche pour-over chambray nulla four loko skateboard sapiente hashtag.
 
