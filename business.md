@@ -1,13 +1,13 @@
 ---
 layout: page
 permalink: /business/
-title: My business
+title: Mi negocio
 tags: [business, mlm, network, marketing, binary, australian, wishclub, publicity, simple]
 modified: 2014-04-02
 image:
-  feature: Myself_in_Marakele_National_Park.JPG
-  credit: Jordi Muntada #Michael Rose
-  creditlink: http://jordimuntada.github.io #http://mademistakes.com
+  feature: binario_australiano.png
+  credit: Wish Club
+  creditlink: http://www.wishclub.com
 ---
 
 ### WishClub
