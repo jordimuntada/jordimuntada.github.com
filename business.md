@@ -5,8 +5,8 @@ title: Mi negocio
 tags: [business, mlm, network, marketing, binary, australian, wishclub, publicity, simple]
 modified: 2014-04-02
 image:
-  feature: binario_australiano.png
-  credit: Wish Club
+  feature: wishclub.jpg
+  credit: WishClub
   creditlink: http://www.wishclub.com
 ---
 
