@@ -38,6 +38,8 @@ Y, en cierto modo, la siguiente cita liga íntima y emocionalmente mi forma de v
 
 > "El conocimiento nos hace responsables." - Ernesto 'Che' Guevara (revolucionario argentino que vivió entre los años 1928 y 1967)
 
+En caso de estar interesado en saber más de mi profesionalidad, os invito a mi perfil de [LinkedIn](https://www.linkedin.com/pub/jordi-muntada-g%C3%B3mez/13/250/952/en).
+
 <!--
 My name is Jordi Muntada. I am settled down a few thousand meters off Barcelona. I would tell you what I intend to become but in fact I do not know so yet. I clearly know what I do not want to become. If you are interested in finding out my study background, I invite you to visit my [LinkedIn](https://www.linkedin.com/pub/jordi-muntada-g%C3%B3mez/13/250/952/en).
 
